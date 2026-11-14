@@ -6,7 +6,7 @@ export const CONFIG = {
 
   CHANNEL_NAME: "SIKANDAR",
   CHANNEL_TAGLINE: "OFFICIAL NEW CHANNEL",
-  AVATAR_IMAGE_URL: "avatar.jpg",
+  AVATAR_IMAGE_URL: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOlxXfWOFm9Ra6_GOBfXsFp6na5x_zhcDZsbP9EjQDsD_caubRsU5TM05SiXCoEbL9lwVQW-DWKn-6UNYx0f5DAS2RgqQM5_p9uxp4UNavIeTllWpayi73hG8QAFMUbUxFi1asbVldvoSykdBU5xFA4QeKtIZDkOgPiZFfS9qfAWjcZNDVj-ngvq7cJy3R/s320/avatar%20(1).jpg",
   FOOTER_ICON_URL: "avatar.jpg",
   FAVICON_URL: "avatar.jpg",
   JOIN_BUTTON_TEXT: "Join Now",
