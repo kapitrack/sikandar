@@ -1,11 +1,11 @@
 export const CONFIG = {
-  CLIENT_ID: "CLIENT_ID",
+  CLIENT_ID: "SIKANDAR",
   PIXEL_ID: "000000000000000",
-  BACKUP_LINK: "https://t.me/+bnbzc3Kn0x44ZTc1",
+  BACKUP_LINK: "https://t.me/+uXsPFegygV44ODg1",
   HELPER_URL: "https://app.kapitrack.site",
 
-  CHANNEL_NAME: "YOUR_TEXT",
-  CHANNEL_TAGLINE: "OFFICIAL TELEGRAM CHANNEL",
+  CHANNEL_NAME: "SIKANDAR",
+  CHANNEL_TAGLINE: "OFFICIAL NEW CHANNEL",
   AVATAR_IMAGE_URL: "avatar.jpg",
   FOOTER_ICON_URL: "avatar.jpg",
   FAVICON_URL: "avatar.jpg",
